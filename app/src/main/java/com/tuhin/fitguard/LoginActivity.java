@@ -13,7 +13,7 @@ import android.widget.Toast;
 public class LoginActivity extends AppCompatActivity {
 
     private Button loginbutton;
-    private EditText editTextGender,editTextDate, editTextHeight, editTextWeight;
+    private EditText editTextGender,editTextDate,editTextHeight, editTextWeight;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
